@@ -1,0 +1,3 @@
+ro.product.modem.codebranch=origin/dev_I13C
+ro.product.modem.jenkins.number=42
+ro.product.modem.commit=d43941b2
